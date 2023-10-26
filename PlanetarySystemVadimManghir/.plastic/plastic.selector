@@ -1,0 +1,4 @@
+repository "PlanetarySystemVadimManghir@InefableDevelopment@cloud"
+  path "/"
+    br "/main"
+    co "/main"
